@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="HotelServlet">
+			<label>Digite o número de noites que quer ficar: </label>
+			<input type="text" name="noite">
+			<input type="submit" value="Calcular">
+		</form>
+</body>
+</html>
